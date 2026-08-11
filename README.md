@@ -3,10 +3,13 @@
 Multi-model AI chat in one workspace.  
 Free to start.
 
-**[zyai.org](https://zyai.org)** · **[Docs](https://zyai.org/docs)** · **[Blog](https://zyai.org/blog)** · **[X](https://x.com/zyai_org)**
+**[zyai.org](https://zyai.org)** · **[Docs](https://zyai.org/docs)** · **[Blog](https://zyai.org/blog)** · **[Business](https://zyai.org/business)** · **[X](https://x.com/zyai_org)**
 
 ---
 
-Source: **[zyai](https://github.com/zyaiorg/zyai)**
+| | |
+|--|--|
+| **Product source** | [zyaiorg/zyai](https://github.com/zyaiorg/zyai) |
+| **Contact** | [contact@zyai.org](mailto:contact@zyai.org) |
 
-Contact: **contact@zyai.org**
+Built for first-time AI users and teams that want many models in one chat history.
