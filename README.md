@@ -3,7 +3,7 @@
 Multi-model AI chat in one workspace.  
 Free to start.
 
-**[zyai.org](https://zyai.org)** · **[Docs](https://zyai.org/docs)** · **[Blog](https://zyai.org/blog)** · **[Business](https://zyai.org/business)** · **[X](https://x.com/zyai_org)**
+**[zyai.org](https://zyai.org)** | **[Docs](https://zyai.org/docs)** | **[Blog](https://zyai.org/blog)** | **[Business](https://zyai.org/business)** | **[X](https://x.com/zyai_org)**
 
 ---
 
